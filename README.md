@@ -5,9 +5,6 @@ https://github.com/marcosmaiadev/react-loja-meteor
 ## Link do surge para visualização:
 http://loja-meteor.surge.sh/
 
-## Desenvolvedor:
-- Marcos Maia Script (https://github.com/marcosmaiadev)
-
 ## Imagens: 
 ![Loja-Meteorito](https://user-images.githubusercontent.com/30267119/115724963-ce169200-a357-11eb-9554-52ec0b14e8f9.PNG)
 
@@ -26,4 +23,7 @@ http://loja-meteor.surge.sh/
 ## Obs: 
 - As imagens usadas são de links da web, portanto alguma pode quebrar.
 - Os produtos foram criados estaticamente no código para teste das lógicas de filtro e carrinho. Não foi utilizada API
+
+## Desenvolvedor:
+- Marcos Maia Script (https://github.com/marcosmaiadev)
 
