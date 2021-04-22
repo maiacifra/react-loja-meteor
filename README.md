@@ -3,7 +3,7 @@ Aplicação para aprendizado do react
 
 # Projeto Loja de Meteoritos
 Aplicação de estudo do react  
-https://github.com/future4code/cruz-labe-commerce21
+https://github.com/marcosmaiadev/react-loja-meteor
 
 ## Link do surge para visualização:
 http://loja-meteor.surge.sh/
