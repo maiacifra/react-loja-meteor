@@ -12,8 +12,7 @@ http://loja-meteor.surge.sh/
 - Marcos Maia Script (https://github.com/marcosmaiadev)
 
 ## Imagens: 
-![TelaPrincipal](https://user-images.githubusercontent.com/30267119/111857240-f05b6100-890e-11eb-869c-b7bb22c81ecb.PNG)
-
+![Loja-Meteorito](https://user-images.githubusercontent.com/30267119/115724963-ce169200-a357-11eb-9554-52ec0b14e8f9.PNG)
 
 ## Funcionalidades: 
 - Exibição de produtos 
