@@ -1,6 +1,3 @@
-# react-loja-meteor
-Aplicação para aprendizado do react
-
 # Projeto Loja de Meteoritos
 Aplicação de estudo do react  
 https://github.com/marcosmaiadev/react-loja-meteor
